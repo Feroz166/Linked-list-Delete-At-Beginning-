@@ -1,5 +1,5 @@
 <blr>
-   ~ Mohammed Feroz
+   ~ Author Mohammed Feroz
  <blr>
 
 # Linked-list-Delete-At-Beginning-
